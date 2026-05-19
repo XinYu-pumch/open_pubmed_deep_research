@@ -1,0 +1,44 @@
+# Local secrets/config
+/config.json
+.claude/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual envs
+venv/
+.venv/
+
+# macOS/local files
+.DS_Store
+**/.DS_Store
+
+# User/generated data
+content/
+tmp/
+_sandbox/
+_archive/
+git_upload/
+
+# Build outputs
+build/
+dist/
+*.app
+*.dmg
+*.exe
+
+# Logs and runtime DB
+*.log
+runtime.log
+chroma.sqlite3
+*.sqlite
+*.sqlite3
+
+# Downloaded/generated literature
+*.pdf
+downloaded_literature.zip
+
+# External model bundle distributed separately
+marker_config/
