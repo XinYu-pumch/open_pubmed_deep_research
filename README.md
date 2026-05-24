@@ -30,6 +30,13 @@ OPDR 不让模型一次性生成完整长文，而是先生成多级综述大纲
 生成后，OPDR 会检查小节正文中的 PMID 是否来自当前章节使用过的文献材料。  
 如果发现引用漂移，会对对应小节进行局部修复，减少“张冠李戴”的引用问题。
 
+### 综述生成原理
+
+<p align="center">
+  <img src="https://github.com/XinYu-pumch/open_pubmed_deep_research/blob/main/demo/demo.png" alt="软件界面" width="100%">
+</p>
+
+
 ### 软件界面
 
 <p align="center">
@@ -84,7 +91,7 @@ cd <repo-folder>
 | 来源 | 链接 |
 | --- | --- |
 | 夸克网盘 | https://pan.quark.cn/s/7e8c9049a1c6 |
-| Google Drive | 待提供 |
+| Google Drive | https://drive.google.com/file/d/1x2GijWH95Us8PR4LVnNGVNsgF_ipr79h/view?usp=drive_link |
 
 ### 2. macOS 打包版
 
@@ -102,7 +109,7 @@ macOS 打包版下载地址：
 | 来源 | 链接 |
 | --- | --- |
 | 夸克网盘 | https://pan.quark.cn/s/a63c70d2e069 |
-| Google Drive | 待提供 |
+| Google Drive | https://drive.google.com/file/d/1IdCB_KIOYnHjY7IAg0FRzxxz6kPCLEOz/view?usp=drive_link |
 
 ### 3. Windows 打包版
 
@@ -113,7 +120,7 @@ Windows 打包版下载地址：
 | 来源 | 链接 |
 | --- | --- |
 | 夸克网盘 | https://pan.quark.cn/s/f130906555a4 |
-| Google Drive | 待提供 |
+| Google Drive | https://drive.google.com/file/d/1uXSApRtaFw3neyCOIUEvWGftyZr8LGUj/view?usp=drive_link |
 
 ## 三、使用方式
 
